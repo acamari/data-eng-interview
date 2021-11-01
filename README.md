@@ -20,7 +20,7 @@ The objective is to write a python program that will collect as many logos as yo
 
 There's no time limit. Spend as much or as little time on it as you'd like. Clone this git repository (don't fork), and push to a new repository when you're ready to share. We'll schedule a follow-up call to review.
 
-# To run:
+# To run (tested in nodejs LTS v12):
 
 	$ npm install
 	$ node index.js < websites.csv
