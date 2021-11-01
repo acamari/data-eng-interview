@@ -1,7 +1,7 @@
 const readline = require('readline');
 var myfetch = require('./utils/fetch');
 
-const debug = (...args) => console.error(...args);
+const debug = (...args) => undefined; // console.error(...args);
 
 // receives as argument a url
 // throws in case of error, otherwise
