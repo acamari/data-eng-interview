@@ -1,0 +1,23 @@
+{
+  "name": "data-eng-interview",
+  "version": "1.0.0",
+  "description": "data-eng-interview for Abel camarillo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/mixrank/data-eng-interview.git"
+  },
+  "author": "Abel Abraham Camarillo Ojeda <acamari@verlet.org>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/mixrank/data-eng-interview/issues"
+  },
+  "homepage": "https://gitlab.com/mixrank/data-eng-interview#readme",
+  "dependencies": {
+    "axios": "^0.24.0"
+  }
+}
