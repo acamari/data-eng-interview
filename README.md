@@ -19,3 +19,8 @@ The objective is to write a python program that will collect as many logos as yo
 * We use [Nix](https://nixos.org/nix/) for package management. If you add your dependencies to `default.nix`, then it's easy for us to run your code. Install nix and launch the environment with `nix-shell` (works on Linux, macOS, and most unixes).
 
 There's no time limit. Spend as much or as little time on it as you'd like. Clone this git repository (don't fork), and push to a new repository when you're ready to share. We'll schedule a follow-up call to review.
+
+# To run:
+
+	$ npm install
+	$ node index.js < websites.csv
