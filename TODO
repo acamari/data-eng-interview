@@ -1,0 +1,4 @@
+* too slow
+* strange hangups
+* allow more concurrency (>20)
+* better logo extraction heuristic
